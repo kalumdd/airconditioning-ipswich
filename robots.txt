@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /e-survey/admin.php
+Disallow: /e-survey/view.php
+Disallow: /e-survey/api.php
+
+Sitemap: https://airconditioning-ipswich.co.uk/sitemap.xml
